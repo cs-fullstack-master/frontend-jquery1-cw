@@ -1,6 +1,6 @@
 # Introduction to jQuery Graded Classwork
 
-## Use only jQuery to select elements, and jQuery 
+## Use only jQuery to select elements 
   
 ### Exercise 1: 
 Create a new HTML file and paste the text below into the body of the HTML file. Use jQuery and CSS to give the elements in the provided HTML their desired features. 
