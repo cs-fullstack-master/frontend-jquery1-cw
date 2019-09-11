@@ -21,4 +21,4 @@ Using the existing ```selectors.html``` file, write the JavaScript or jQuery nee
 
 
 ### Exercise 3: 
-Create a table with 4 columns and 6 rows. Add a button outside of that table. When that button is clicked set the background color of every other row to grey.
+Create a table with 4 columns and 6 rows. Put the text "jQuery" in each cell/box. Add a button outside of that table. When that button is clicked set the background color of every other row to grey.
